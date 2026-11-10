@@ -1,4 +1,4 @@
-# NYC Taxi Demand Forecasting PySpark
+# NYC Taxi Data Engineering & Demand Forecasting Pipeline
 
 An end-to-end big data analytics and machine learning project using January 2025 NYC Yellow Taxi trip records. The project uses PySpark and Spark SQL to process millions of trips, analyze temporal and geographic demand patterns, and predict zone-level hourly taxi demand.
 
